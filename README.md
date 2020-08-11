@@ -1,13 +1,14 @@
 ### Hi there 👋. Exx here. Please do not ask me how I got my nickname.
 
-#### 🔭 I’m currently a Robotic Process Automation Team Manager at a global energy company.
+- 🔭 I’m currently a Robotic Process Automation Team Manager at a global energy company.
+- 👯 I’m looking to start contributing to open source projects. 
+- ⚡ I'm also working on other projects through my own company XanDaw Apps [xandawapps]
 
-#### 👯 I’m looking to start contributing to open source projects. Please do not hesitate reach out to me through these channels.
+Please do not hesitate reach out to me through these channels.
 
 [![alt text][1.1]][1]
 [![alt text][2.1]][2]
 [![alt text][3.1]][3]
-
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
@@ -35,6 +36,7 @@
 [react]: https://reactjs.org/
 [nodejs]: https://nodejs.org/en/
 [terminal]: https://www.iterm2.com/
+[xandawapps]: https://xandawapps.com/
 
 <!--
 **exxmen/exxmen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
