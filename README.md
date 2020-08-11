@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently a Robotic Process Automation Team Manager at a global energy company.
 - 👯 I’m looking to start contributing to open source projects. 
-- ⚡ I'm also working on other projects through my own company XanDaw Apps [xandawapps]
+- ⚡ I'm also working on other projects through my own company [XanDaw Apps][xandawapps]
 
 Please do not hesitate reach out to me through these channels.
 
