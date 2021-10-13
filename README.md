@@ -1,10 +1,10 @@
 ### Hi there 👋. Exx here. Please do not ask me how I got my nickname.
 
-- 🔭 I’m currently a Robotic Process Automation Team Manager at a global energy company.
+- 🔭 I’m currently a Senior Developer at a global energy company.
 - 👯 I’m looking to start contributing to open source projects. 
 - ⚡ I'm also working on other projects through my own company [XanDaw Apps][xandawapps]
 
-Please do not hesitate reach out to me through these channels.
+Please do not hesitate to reach out to me through these channels.
 
 [![alt text][1.1]][1]
 [![alt text][2.1]][2]
